@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)testPrint:(NSString *)text;
 
+//v2.0
+- (void)showLog;
+
 @end
 
 NS_ASSUME_NONNULL_END

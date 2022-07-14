@@ -21,6 +21,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     QCNetworkingManager *manager = [QCNetworkingManager new];
     [manager testPrint:@"何其灿"];
+    
+    [manager showLog];
 }
 
 - (void)didReceiveMemoryWarning

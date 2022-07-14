@@ -13,4 +13,8 @@
     NSLog(@"QCNetworking ====== %@", text);
 }
 
+- (void)showLog {
+    NSLog(@"何其灿 ====== 0.1.1版本");
+}
+
 @end

@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of QCNetworking.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/何其灿/QCNetworking",
+  "homepage": "https://github.com/heqican/QCNetworking",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "何其灿": "qican.he@luckincoffee.com"
+    "何其灿": "462584991@qq.com"
   },
   "source": {
-    "git": "https://github.com/何其灿/QCNetworking.git",
+    "git": "https://github.com/heqican/QCNetworking.git",
     "tag": "0.1.0"
   },
   "platforms": {
