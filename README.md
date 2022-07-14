@@ -22,7 +22,7 @@ pod 'QCNetworking'
 
 ## Author
 
-何其灿, qican.he@luckincoffee.com
+何其灿, 462584991@qq.com
 
 ## License
 

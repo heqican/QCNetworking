@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## QCNetworking
 
-Copyright (c) 2022 何其灿 <qican.he@luckincoffee.com>
+Copyright (c) 2022 何其灿 <462584991@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

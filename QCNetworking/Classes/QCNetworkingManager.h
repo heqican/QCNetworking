@@ -2,7 +2,7 @@
 //  QCNetworkingManager.h
 //  QCNetworking
 //
-//  Created by luckincoffee·hqc on 2022/7/14.
+//  Created by 462584991@qq.com on 2022/7/14.
 //
 
 #import <Foundation/Foundation.h>
